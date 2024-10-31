@@ -31,7 +31,7 @@ This project enables **stepper motor control** using hand gestures detected thro
 
 1. Clone this repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/lukakvesic/Steper-motor-control-with-WEB-camera.git
     ```
 
 2. Install the required Python packages:
